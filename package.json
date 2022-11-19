@@ -18,7 +18,8 @@
     "preview": "qwik build preview && vite preview --open",
     "serve": "echo 'Run \"npm run qwik add\" to install a server adaptor'",
     "start": "vite --open --mode ssr",
-    "qwik": "qwik"
+    "qwik": "qwik",
+    "wpe-build": "next build"
   },
   "devDependencies": {
     "@builder.io/qwik": "0.13.3",
